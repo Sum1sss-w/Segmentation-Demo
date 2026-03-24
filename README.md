@@ -13,3 +13,7 @@ TCIA AML(The Cancer Imaging Archive cases of AML) which is a large archive of ca
 In this case we downloaded archive of cells found in AML (acute myeloid leukemia) cases. The database contain 200 patients and 18,365 images; for this demonstration we use only a few images from the whole dataset. 
 
 Additional Information can be found at https://doi.org/10.7937/tcia.2019.36f5o9ld Matek, C., Schwarz, S., Marr, C., & Spiekermann, K. (2019). A Single-cell Morphological Dataset of Leukocytes from AML Patients and Non-malignant Controls [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/tcia.2019.36f5o9ld.
+
+# END REMARK
+
+The notebook featured within this github repositories cannot be preview due to metadata output cell featuring slider and interactive prompt. Please download the raw file for notebook inspection or refered to original google colab file: https://colab.research.google.com/drive/1PAF3XGXV-3kl-2gNn-rx0JEC_8IJK2Ti?usp=sharing
